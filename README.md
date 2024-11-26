@@ -12,3 +12,4 @@ This project demonstrates how to use an ESP32 to control a 16x2 LCD display with
 - Ensure you have MicroPython installed on your ESP32.
 - Upload the files to your ESP32 using Thonny or another MicroPython IDE.
 - Modify `test.py` as needed to suit your setup.
+
